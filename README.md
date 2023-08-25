@@ -12,7 +12,11 @@
 8. 配置package.json
 9. 配置.gitignore
 
-10. npm run commit
+10. npm run commit // 提交规范
+11. npm i typescript -D
+12. 配置 tsconfig.json tsconfig.build.json
+13. npm i react react-dom @types/react @types/react-dom -D
+14. npm i prop-types
 
 前端规范
 https://github.com/airbnb/javascript
